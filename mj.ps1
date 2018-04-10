@@ -1,8 +1,3 @@
-# Josh Jenkins
-# created in 2018
-# mouse jiggler cause skype sucks
-# Creates a background process that can only be ended with "Task Manager"
-
 cls
 
 # .Net methods for hiding/showing the console in the background
